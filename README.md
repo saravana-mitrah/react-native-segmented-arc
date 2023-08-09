@@ -1,4 +1,4 @@
-# React Native Arc ProgressBar
+# React Native Segment ProgressBar
 
 Segment ProgressBar for React Native, works on both **iOS** and **Android**. 
 Check out our documentation below to learn how to get started.
@@ -18,9 +18,9 @@ Check out our documentation below to learn how to get started.
 
 ## 🚀 Installation
 
-1. Install `react-native-svg` library for Dependency
+1. Install `react-native-segment-progress-bar`
 
-2. Install `react-native-segment-progress-bar`:
+2. Install `react-native-svg` library for Dependency
 
 ```bash
 yarn add react-native-segment-progress-bar
